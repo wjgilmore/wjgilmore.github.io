@@ -12,4 +12,9 @@ redirect_from:
 
 <h1>Latest News</h1>
 
-I'll be at [CodeMash](https://www.codemash.org) from January 8-11, 2019. If you're there come check out the [DreamFactory](https://www.dreamfactory.com/) booth!
+[12/12/19] I'll be at [CodeMash](https://www.codemash.org) from January 8-11, 2019. If you're there come check out the [DreamFactory](https://www.dreamfactory.com/) booth!
+
+[11/8/19] Excited to be visiting Tokyo, Japan from November 10-16.
+
+[10/11/19] In Sydney, Australia from October 13-18.
+
