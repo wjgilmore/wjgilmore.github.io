@@ -9,3 +9,7 @@ redirect_from:
   - /blog/2010/09/20/disabling-foreign-key-constraints-when-loading-mysql-data/
   - /blog/2010/09/06/validating-identical-passwords-with-the-zend-framework/
 ---
+
+<h1>Latest News</h1>
+
+I'll be at [CodeMash](https://www.codemash.org) from January 8-11, 2019. If you're there come check out the [DreamFactory](https://www.dreamfactory.com/) booth!

@@ -2,8 +2,8 @@ title: WJ Gilmore, LLC
 email: wj@wjgilmore.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jason Gilmore is a consultant, bestselling author, and advisor to several accomplished startups.
-baseurl: "http://www.wjgilmore.com" # the subpath of your site, e.g. /blog
-url: "http://www.wjgilmore.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
