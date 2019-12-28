@@ -12,7 +12,7 @@ redirect_from:
 
 <h1>Latest News</h1>
 
-12/12/19: I'll be at [CodeMash](https://www.codemash.org) from January 8-11, 2019. If you're attending be sure to check out the [DreamFactory](https://www.dreamfactory.com/) booth!
+12/12/19: I'll be at [CodeMash](https://www.codemash.org) from January 8-11, 2020. If you're attending be sure to check out the [DreamFactory](https://www.dreamfactory.com/) booth!
 
 11/20/19: Visiting clients in Pittsburgh, PA, one of my favorite cities in the world this November 21-22.
 
