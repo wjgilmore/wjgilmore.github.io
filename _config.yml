@@ -1,7 +1,7 @@
-title: WJ Gilmore, LLC
+title: W. Jason Gilmore
 email: wj@wjgilmore.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jason Gilmore is a consultant, bestselling author, and advisor to several accomplished startups.
+  Jason Gilmore is a consultant, bestselling author, and CTO of DreamFactory Software, Inc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

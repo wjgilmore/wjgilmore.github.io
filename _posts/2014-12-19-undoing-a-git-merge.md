@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Undoing a Git Merge
+published: true
 redirect_from:
   - /blog/2014/12/19/undoing-a-git-merge/
 ---
