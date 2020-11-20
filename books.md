@@ -4,7 +4,7 @@ title: Books
 ---
 ## Easy Laravel 5
 
-[Easy Laravel 5](http://easylaravelbook.com/) is my most popular self-published book to date. It has undergone literally hundreds of revisions since the first release in early 2015.
+[Easy Laravel 5](http://easylaravelbook.com/) is my most popular self-published book to date. It has undergone hundreds of revisions since the first release in early 2015.
 
 ## Easy E-Commerce Using Laravel and Stripe
 
