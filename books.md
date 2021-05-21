@@ -20,7 +20,7 @@ Co-authored with Laravel News founder Eric Barnes, [Easy E-Commerce using Larave
 
 ## Easy PHP Websites with the Zend Framework
 
-I wrote [Easy PHP Websites with the Zend Framework](https://www.amazon.com/Easy-PHP-Websites-Zend-Framework-ebook/dp/B004RVNL3G) because the Zend Framework was really ahead of its time in the PHP community, offering the first mainstream PHP-based web framework.
+I wrote [Easy PHP Websites with the Zend Framework](https://www.amazon.com/Easy-PHP-Websites-Zend-Framework-ebook/dp/B004RVNL3G) back in 2008 because for its time the Zend Framework was a cutting edge solution.
 
 ## Beginning PHP and MySQL, Fourth Edition
 
