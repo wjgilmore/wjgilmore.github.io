@@ -12,13 +12,7 @@ redirect_from:
 
 <h1>Latest News</h1>
 
-12/12/19: I'll be at [CodeMash](https://www.codemash.org) from January 8-11, 2020. If you're attending be sure to check out the [DreamFactory](https://www.dreamfactory.com/) booth!
+In December, 2021 I joined the [Treehouse](https://www.teamtreehouse.com) as CEO following a more than four year stint serving as CTO of [DreamFactory Software](https://www.dreamfactory.com).
 
-11/20/19: Visiting clients in Pittsburgh, PA, one of my favorite cities in the world this November 21-22.
-
-11/8/19: Excited to be visiting Tokyo, Japan from November 10-16.
-
-10/28/19: Looking forward to meeting clients in Cleveland, OH and surrounding suburbs on October 29!
-
-10/11/19: I'll be attending team meetings in Sydney, Australia from October 13-18.
+In August, 2023 I launched [EmailReputationAPI](https://emailreputationapi.com) in response to the rampant abuse I've seen over the years by bots, scammers, and credit card fraudsters. EmailReputationAPI offers an easy API which will help companies identify both personal and anonymized email domains whether at time of registration or during periodic CRM audits. It's still a side project for now, but provides something fun to hack on as well as offers a useful service to the larger Internet business community.
 
