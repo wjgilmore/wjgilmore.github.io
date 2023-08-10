@@ -11,7 +11,7 @@ Over the years Jason has published more than 300 articles within popular publica
 
 Jason is (since retired) cofounder of the wildly popular <a href="https://www.codemash.org/" rel="nofollow">CodeMash Conference</a>, the largest multi-day developer event in the Midwest. Away from the keyboard, you’ll often find Jason playing with his children, hunched over a chess board, or having fun with DIY electronics.
 
-Jason is creator of <a href="https://emailreputationapi.com">EmailReputationAPI</a>. He launched EmailReputationAPI in response to the rampant abuse he's experienced over the years by bots, scammers, and credit card fraudsters. EmailReputationAPI offers an easy API which will help companies identify both personal and anonymized email domains whether at time of registration or during periodic CRM audits. It's still a side project for now, but provides something fun to hack on as well as offers a useful service to the larger Internet business community.
+Jason is creator of <a href="https://emailreputationapi.com">EmailReputationAPI</a>. He launched EmailReputationAPI in response to the rampant abuse he's witnessed over the years with regards to bots, scammers, and credit card fraudsters signing up to legitimate online services using anonymized and illegitimate personal email accounts. EmailReputationAPI offers an easy API which will help companies identify both personal and anonymized email domains whether at time of registration or during periodic CRM audits. It's still a side project for now, but provides something fun to hack on as well as offers a useful service to the larger Internet business community.
 
 Credits:
 
