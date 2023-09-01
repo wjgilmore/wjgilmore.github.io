@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laravel Jetstream: Changing the Login Redirection URL
+title: "Laravel Jetstream: Changing the Login Redirection URL"
 published: true
 ---
 
