@@ -52,11 +52,11 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
   color: rgba(255, 255, 255, 0.5);
   background-color: #202020;
-  background: url("/public/img/desk.jpg");
+  background: url("/public/img/dc.jpeg");
   background-size: cover;
+  padding-right: 10px;
 }
 @media (min-width: 48em) {
   .sidebar {
